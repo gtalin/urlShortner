@@ -14,5 +14,9 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/gtalin/urlShortner/issues"
+  },
+  "dependencies": {
+    "express": "~4.14.0",
+    "mongodb": "~2.2.16"
   }
 }
