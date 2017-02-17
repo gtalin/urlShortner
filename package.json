@@ -18,6 +18,7 @@
   "dependencies": {
     "express": "~4.14.0",
     "mongodb": "~2.2.16",
-    "url": "~0.11.0"
+    "url": "~0.11.0",
+    "valid-url": "~1.0.9"
   }
 }
